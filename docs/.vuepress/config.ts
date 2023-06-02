@@ -17,7 +17,7 @@ const customTheme = (): Theme => {
 export default defineUserConfig({
   base: '/blog/',
   lang: 'zh-CN',
-  title: '工作学习记录',
+  title: 'Wangwei\'s Blog',
   theme: themeConfig,
   alias: {
     '@theme-hope/modules/blog/components/BlogHome': path.resolve(__dirname, './components/HomePage')
