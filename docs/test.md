@@ -1,8 +1,8 @@
 ---
 date: 2021-01-24
-category: 前端
+category: 算法
 tag:
-  - CSS
+  - Python
 ---
 
 # Css常见问题解决
