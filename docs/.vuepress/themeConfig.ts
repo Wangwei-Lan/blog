@@ -75,9 +75,10 @@ export default hopeTheme({
       provider: 'Giscus',
       comment: true,
       repo:"Wangwei-Lan/blog",
-      repoId:"R_kgDOGubgfg",
+
+      repoId:"R_kgDOJqgRcQ",
       category:"Q&A",
-      categoryId:"DIC_kwDOGubgfs4CW2ab",
+      categoryId:"DIC_kwDOJqgRcc4CW6Gf",
     },
     mdEnhance: {
       // enableAll: true,
