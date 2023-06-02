@@ -14,7 +14,7 @@ export default hopeTheme({
 
   iconPrefix: 'iconfont icon-',
 
-  logo: '/avatar.png',
+  logo: '/avatar.jpg',
 
   repo: 'https://github.com/Wangwei-Lan/blog',
 
