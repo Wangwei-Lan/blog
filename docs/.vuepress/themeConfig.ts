@@ -5,18 +5,18 @@ import {getDirname, path} from '@vuepress/utils'
 const __dirname = getDirname(import.meta.url);
 
 export default hopeTheme({
-  hostname: 'https://caigouzi1.github.io/blog/',
+  hostname: 'https://Wangwei-Lan.github.io/blog/',
 
   author: {
-    name: '爵爵爵',
-    url: 'https://github.com/caigouzi1',
+    name: 'Wangwei',
+    url: 'https://github.com/Wangwei-Lan',
   },
 
   iconPrefix: 'iconfont icon-',
 
   logo: '/avatar.png',
 
-  repo: 'https://github.com/caigouzi1/blog',
+  repo: 'https://github.com/Wangwei-Lan/blog',
 
   docsBranch: 'master',
 
@@ -27,14 +27,14 @@ export default hopeTheme({
   sidebar: false,
   // sidebar: sidebar,
   blog: {
-    description: '一个前端开发者',
+    description: 'Developer',
     // intro: '/intro.html',
     medias: {
-      GitHub: 'https://github.com/caigouzi1',
+      GitHub: 'https://github.com/Wangwei-Lan',
     },
   },
 
-  footer: '船到桥头自然直',
+  footer: 'hahahhaha',
 
   displayFooter: true,
 
@@ -54,7 +54,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      '/guide/encrypt.html': ['woshicaigouzi'],
+      '/guide/encrypt.html': ['wangweilan'],
     },
   },
 
@@ -74,31 +74,31 @@ export default hopeTheme({
     comment: {
       provider: 'Giscus',
       comment: true,
-      repo:"caigouzi1/blog",
+      repo:"Wangwei-Lan/blog",
       repoId:"R_kgDOGubgfg",
       category:"Q&A",
       categoryId:"DIC_kwDOGubgfs4CW2ab",
     },
     mdEnhance: {
       // enableAll: true,
-      demo: true,  // 代码演示
-      vuePlayground: true,  // Vue 交互演示
-      playground: {
-        // 添加预设
-        presets: [
-          "ts",
-          "vue",
-        ],
-        // 设置内置预设 (可选)
-        config: {
-          ts: {
-            // ...
-          },
-          vue: {
-            // ...
-          },
-        },
-      },
+      //demo: true,  // 代码演示
+      //vuePlayground: true,  // Vue 交互演示
+      //playground: {
+      //  // 添加预设
+      //  //presets: [
+      //  //  "ts",
+      //  //  "vue",
+      //  //],
+      //  // 设置内置预设 (可选)
+      //  config: {
+      //    ts: {
+      //      // ...
+      //    },
+      //    vue: {
+      //      // ...
+      //    },
+      //  },
+      //},
       include: true,
       presentation: {
         plugins: ['highlight', 'math', 'search', 'notes', 'zoom'],
